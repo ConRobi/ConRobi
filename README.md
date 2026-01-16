@@ -7,9 +7,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-Hello, I'm ConRobi
+Hello, I'm Connor!
 
-I'm interested in game development and learning how to make apps and websites
+I am interested in data analyis, game development, making apps & websites, and many other areas of tech!
 <!---
 ConRobi/ConRobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
