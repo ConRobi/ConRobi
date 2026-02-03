@@ -9,7 +9,7 @@
 --->
 Hello, I'm Connor!
 
-I am interested in data analyis, game development, making apps & websites, and many other areas of tech!
+I am interested in data analyis, game development, and many other areas of information technology and business!
 <!---
 ConRobi/ConRobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
